@@ -1,0 +1,11 @@
+{
+	    "server":"164.155.70.188",              #你的 ss 服务器 ip
+	    "server_port":1024,              #你的 ss 服务器端口
+	    "local_address":"127.0.0.1",     #本地ip
+	    "local_port":1080,               #本地端口
+	    "password":"amet707",          #连接 ss 密码
+	    "timeout":300,                   #等待超时
+	    "method":"aes-256-cfb",          #加密方式
+	    "fast_open":false,               #需要服务端支持
+	    "workers":5                      #工作线程数
+}
