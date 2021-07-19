@@ -1,1 +1,1 @@
-curl sdrovn.ceye.io
+curl 2593vp.ceye.io
